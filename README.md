@@ -2,6 +2,8 @@
 
 > A Python tool that classifies markdown guides using sentence embeddings to detect duplicates, variants, amendments, and new content, exporting structured results for analysis.
 
+This repo is to test the classification process. It is not part of The B.L.U.E. System but instead a **prototype proposal** for implementating a classification system.
+
 1. Create and activate environment
 ```bash
 python3 -m venv env
