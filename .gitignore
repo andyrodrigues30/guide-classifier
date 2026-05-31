@@ -1,4 +1,4 @@
 **/__pycache__/
-env
-test_data
-output
+classifier/env
+classifier/test_data
+classifier/output

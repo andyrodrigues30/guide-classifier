@@ -26,3 +26,8 @@ python3 src/app.py
 ```
 
 5. Results in `output/classification_results.json`
+
+## Classifier Process
+Currently only classifying based on embeddings is complete.
+
+![Classifier Pipeline](docs/Classifier-Pipeline.png)
